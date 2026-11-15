@@ -1,0 +1,6 @@
+[Unit]
+Description=Log Wi-Fi Data Usage
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/wifi_usage_logger.sh
