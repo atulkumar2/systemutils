@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "language": "en",
+  "ignorePaths": ["**/.env", ".git/**"],
+  "words": [
+    "curr",
+    "delaycompress",
+    "gsub",
+    "iface",
+    "logname",
+    "missingok",
+    "nmcli",
+    "notifempty",
+    "numfmt",
+    "oneshot",
+    "rlength",
+    "rstart",
+    "substr"
+  ]
+}
